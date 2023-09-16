@@ -1,0 +1,26 @@
+---
+id: 2924048
+name: Karakuri Cash Shed
+type: Trap Card
+frameType: trap
+desc: Activate only if you control a "Karakuri" monster in face-up Defense Position.
+  Negate the activation of an opponent's Spell/Trap Card and destroy it.
+race: Counter
+archetype: Karakuri
+card_sets:
+- set_name: Extreme Victory
+  set_code: EXVC-EN074
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '4.69'
+card_images:
+- id: 2924048
+  image_url: https://images.ygoprodeck.com/images/cards/2924048.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/2924048.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/2924048.jpg
+card_prices:
+- cardmarket_price: '0.92'
+  tcgplayer_price: '1.18'
+  ebay_price: '2.70'
+  amazon_price: '3.93'
+  coolstuffinc_price: '1.99'
